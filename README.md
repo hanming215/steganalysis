@@ -1,5 +1,5 @@
 # steganalysis
-Deep learning in steganalysis
+Image steganalysis based on deep learning
 
 
 
